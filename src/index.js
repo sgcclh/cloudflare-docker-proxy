@@ -12,7 +12,7 @@ const routes = {
   "gcr..hlab.cc": "https://gcr.io",
   "k8s-gcr..hlab.cc": "https://k8s.gcr.io",
   "k8s.hlab.cc": "https://registry.k8s.io",
-  "ghcr..hlab.cc": "https://ghcr.io",
+  "ghcr.hlab.cc": "https://ghcr.io",
   "cloudsmith..hlab.cc": "https://docker.cloudsmith.io",
 
   // staging
