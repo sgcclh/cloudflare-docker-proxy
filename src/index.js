@@ -9,7 +9,7 @@ const routes = {
   // production
   "docker.hlab.cc": dockerHub,
   "quay.hlab.cc": "https://quay.io",
-  "gcr..hlab.cc": "https://gcr.io",
+  "gcr.hlab.cc": "https://gcr.io",
   "k8s-gcr..hlab.cc": "https://k8s.gcr.io",
   "k8s.hlab.cc": "https://registry.k8s.io",
   "ghcr.hlab.cc": "https://ghcr.io",
